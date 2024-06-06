@@ -73,7 +73,7 @@ meterpreter > pwd
 Sisteme başarılı bir şekilde giriş yaptım ve home dizini altında kullanıcı bayrağını almaya gittim. Ancak dizinde herhangi bir kullanıcı dizini yoktu. user.txt görüntüleyebildiğimiz hiçbir dizinin içerisinde yer almıyordu. Bu yüzden metasploitte bulunan exploit suggester modülünü kullandım. Her ne kadar bir uygun bir exploit bulduğunu söylese de exploit'i hiçbir şekilde çalıştıramadım. Ancak bu sayede kenarda yazan makinenin local ip adresini fark edebildim. Bulunduğum makine 172.17.0.2 adresine sahip. Mantıken 172.17.0.1 şeklinde bir makine de vardır diye düşündüm. O makine ile de ilgileneceğim ama öncelikle bu makinede yetki yükseltmem gerekiyor, /root dizininin içerisinde önemli bir bilgi olabilir.
 
 ```markdown
-> /usr/bin/python3.7 = cap_setuid+ep
+> getcap -r /
 
 ...
 /usr/bin/python3.7 = cap_setuid+ep
