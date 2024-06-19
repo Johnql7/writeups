@@ -1,7 +1,7 @@
 <p align="center"><img width="250px" src="https://labs.hackthebox.com/storage/avatars/fb2d9f98400e3c802a0d7145e125c4ff.png"></p>
 <h1 align="center">HackTheBox - Lame</h1>
 
-<p align="center">Merhabalar, bu yazımda sizlere tryhackme.com platformunda bulunan "Oh My WebServer" isimli makinenin çözümünü göstereceğim. İlk önce nmap aracını kullanarak makinede açık olan portları görüntüleyeceğim.</p>
+<p align="center">Merhabalar, bu yazımda sizlere hackthebox.com platformunda bulunan "Lame" isimli makinenin çözümünü göstereceğim. İlk önce nmap aracını kullanarak makinede açık olan portları görüntüleyeceğim.</p>
 
 ![2](https://github.com/Johnql7/writeups/assets/165813191/432a04ae-6aeb-41a2-b80d-b49b3125533f)
 
