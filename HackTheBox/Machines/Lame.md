@@ -15,4 +15,4 @@ Versiyonundan yola çıkarsakta metasploitte usermap_script adında bir exploit 
 
 Gerekli verileri girdikten sonra exploiti çalıştırdım ve /home/makis ve /root dizini altından bayrakları aldım.
 
-![5](https://github.com/Johnql7/writeups/assets/165813191/7f5b12d2-0bc0-4201-b5fd-b9c5fa336ed1)
+![6](https://github.com/Johnql7/writeups/assets/165813191/2bf9ba0c-3029-4ea2-a034-5079ae12bcb5)
