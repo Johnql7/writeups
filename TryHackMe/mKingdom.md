@@ -51,7 +51,7 @@ Daha fazla bilgi edinebilmek için sisteme linpeas.sh dosyasını indirdim ve ç
 
 ![15](https://github.com/Johnql7/writeups/assets/165813191/159bdf96-da7a-4484-8e7d-c610813dc059)
 
-Bu dosyayı düzenleyebileceğimizi ve içerisinde mkingdom.thm domaininin olduğunu düşünürsek mantıken bir dosyanın arkaplanda çalışarak bu domaine request gönderdiğini düşünebiliriz. Bu dosyayı bulabilmek için pspy64 aracını kullanacağım.
+Bu dosyayı düzenleyebileceğimizi ve içerisinde mkingdom.thm domaininin olduğunu düşünürsek, mantıken bir dosyanın arkaplanda çalışarak bu domaine request gönderdiğini düşünmek çokta saçma olmaz. Bu dosyayı bulabilmek için pspy64 aracını kullanacağım.
 
 ![16](https://github.com/Johnql7/writeups/assets/165813191/badc83a9-5a64-40d5-9db6-498dd3cb09c8)
 
