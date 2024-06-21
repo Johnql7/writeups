@@ -45,7 +45,7 @@ Burada ki şifreyi öncelikle toad kullanıcısına geçiş yapmak için kulland
 
 ![14](https://github.com/Johnql7/writeups/assets/165813191/b6d91be2-1739-45f5-b3c1-e7bafae37e77)
 
-Anlaşılan user.txt dosyasını okuyabilmemiz için yetki yükseltmemiz gerekiyor. sudo -l komutunu kullandığımda /usr/bin/id dosyası üzerinden istediğim kişiye bürünebileceğimi öğrendim. İnternette yaptığım aramalar ve dosyanın yardım sayfasından bir şey çıkaramadım. 
+Anlaşılan user.txt dosyasını okuyabilmemiz için yetki yükseltmemiz gerekiyor. sudo -l komutunu kullandığımda /usr/bin/id dosyası üzerinden istediğim kişiye bürünebileceğimi öğrendim. İnternette yaptığım aramalardan ve dosyanın yardım sayfasından bir şey çıkaramadım. 
 
 Daha fazla bilgi edinebilmek için sisteme linpeas.sh dosyasını indirdim ve çalıştırdım. Sonucunda mario grubunda ki kullanıcıların /etc/hosts dosyasını düzenleyebileceğini gördüm. bende mario kullanıcısında ve grubunda olduğumdan bu dosyayı düzenleyebileceğim.
 
