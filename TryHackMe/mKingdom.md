@@ -25,7 +25,7 @@ Web sayfasında sadece bir blog ve iletişim sayfası bulunuyor. Blogda sadece a
 
 ![9](https://github.com/Johnql7/writeups/assets/165813191/b4661207-95a1-4c7a-a963-82d6504b9826)
 
-Bu hata dışında genel olarak dosya yükleme yerlerine her resim yüklemeye çalıştığımda uzantının php, phar ve türevleri olduğundan kabul etmiyordu. Admin panelini biraz gezdikten sonra aşağıda göreceğiniz üzere kabul edilebilir dosya uzantılarının bulunduğu bir form ile karşılaştım ve içerisine php uzantısını ekledim.
+Bu hata dışında genel olarak dosya yükleme yerlerine her resim yüklemeye çalıştığımda uzantını php, phar ve türevleri olduğundan kabul etmiyordu. Admin panelini biraz gezdikten sonra aşağıda göreceğiniz üzere kabul edilebilir dosya uzantılarının bulunduğu bir form ile karşılaştım ve içerisine php uzantısını ekledim.
 
 ![10](https://github.com/Johnql7/writeups/assets/165813191/b3aa3f4b-4aab-4822-ad1c-6e46e3fdb726)
 
