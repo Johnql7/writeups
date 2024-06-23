@@ -15,7 +15,7 @@ https://github.com/ice-wzl/Fuel-1.4.1-RCE-Updated
 
 '+pi(print($a='system'))+$a('komut buraya')+'
 
-Bu exploit kod enjeksiyonu zafiyetinden yararlanıyor gibi duruyor. Yukarıda ki kodu url encode edip /fuel/pages/select/?filter= uzantının sonuna ekliyor ve çalıştırıyor. Bu sayede istediği komutu yürütebiliyor. Tabi komut yürütebilmesi için öncelikle siteye login olması gerekiyor. Kaldı ki anasayfada kullanıcı ve şifresini default olarak admin admin olduğu belirtilmiş.
+Bu exploit kod enjeksiyonu zafiyetinden yararlanıyor gibi duruyor. Yukarıda ki kodu url encode edip /fuel/pages/select/?filter= uzantısının sonuna ekliyor ve çalıştırıyor. Bu sayede istediği komutu yürütebiliyor. Tabi komut yürütebilmesi için öncelikle siteye login olması gerekiyor. Kaldı ki anasayfada kullanıcı ve şifresini default olarak admin admin olduğu belirtilmiş.
 
 ![5](https://github.com/Johnql7/writeups/assets/165813191/28b1a471-b3e9-421c-9f35-c028f593f0c9)
 
