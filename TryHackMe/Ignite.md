@@ -27,6 +27,6 @@ Shell aldıktan sonra ilk önce /home/www-data dizini altından ilk bayrağı al
 
 ![7](https://github.com/Johnql7/writeups/assets/165813191/62b47c09-04db-44f4-8269-3df1195b9dfa)
 
-Bu mysql şifresi root kullanıcısının şifresi olduğu için daha fazla uğraşmadan son bayrağı aldım.
+Bu mysql şifresi root kullanıcısının da şifresi olduğu için daha fazla uğraşmadan son bayrağı alabildim.
 
 ![8](https://github.com/Johnql7/writeups/assets/165813191/0000d7bf-e694-43f1-aecf-876fe3e39949)
